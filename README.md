@@ -1,82 +1,178 @@
-<!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71E&width=500&lines=Hey%2C+I'm+Saurav+Kumar+👋;Engineering+Student+%7C+Fullstack+Dev;Cloud+%26+DevOps+Aspirant+☁;Passionate+Learner+%26+Problem+Solver)](https://git.io/typing-svg)
-
----
-
-# 💫 About Me  
-🌱 Engineering Student @ RIT, Raipur  
-💻 Fullstack Web Developer & DevOps & Cloud Computing Enthusiast  
-🚀 Exploring DevOps, Cloud, DSA & Open Source  
-⚡ Love to build creative projects and learn new tech🎯
-
----
-
-# 🛠 Skills & Tools  
-
-### 🌐 Frontend  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-</p>
-
-### ⚙ Backend  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-</p>
-
-### 🗄 Database  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-</p>
-
-### 🔧 Version Control  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
-
-### ⚡ DevOps  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45"/>
-</p>
-
-### ☁ Cloud  
-<p>
-  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
-
-### 📊 Extra Skills  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
-  <img src="https://img.shields.io/badge/Phaser.js-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ml5.js-purple?style=for-the-badge&logo=ai&logoColor=white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45"/>
-</p>
-
----
-
-
----
-
-# 🔗 Connect With Me  
+<!-- Banner -->
 <p align="center">
-  <a href="https://github.com/Saurav6200907210"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=250&section=header&text=Saurav%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F260&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Saurav+Kumar+%F0%9F%91%8B;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things+%F0%9F%9A%80"/>
 </p>
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Saurav6200907210&color=brightgreen) 
+# 💫 About Me
+
+🎓 B.Tech IT Student
+
+💻 Full Stack Developer
+
+☁️ DevOps & Cloud Computing Enthusiast
+
+🚀 Passionate about building scalable applications
+
+📚 Exploring AWS, Kubernetes, Terraform & Open Source
+
+🎯 Goal: Become a Software Engineer & DevOps Engineer
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Saurav6200907210">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+ 
+<a href="mailto:sonukumarteg245@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,githubactions,docker,kubernetes,jenkins,terraform,ansible,aws,gcp,nginx,prometheus,grafana"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,bash"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+✅ MERN Stack Development
+
+✅ Docker & Kubernetes
+
+✅ CI/CD Pipelines
+
+✅ AWS Cloud
+
+✅ Data Structures & Algorithms
+
+✅ Open Source Contributions
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saurav6200907210&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav6200907210&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav6200907210&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Saurav6200907210&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurav6200907210&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Saurav6200907210/Saurav6200907210/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🚀 Featured Skills
+
+```yaml
+Frontend:
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+  - Tailwind CSS
+
+Backend:
+  - Node.js
+  - Express.js
+
+Database:
+  - MongoDB
+  - MySQL
+
+DevOps:
+  - Docker
+  - Kubernetes
+  - Jenkins
+  - Terraform
+  - Ansible
+
+Cloud:
+  - AWS
+  - GCP
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saurav6200907210&color=00F260&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=120&section=footer"/>
+</p>
