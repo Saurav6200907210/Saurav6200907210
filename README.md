@@ -12,7 +12,7 @@
 
 # 💫 About Me
 
-🎓 B.Tech IT Student
+ 🎓 Final Year Computer Science Engineering Student
 
 💻 Full Stack Developer
 
@@ -65,10 +65,26 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-### DevOps & Cloud
+## 🚀 DevOps & CI/CD
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,githubactions,docker,kubernetes,jenkins,terraform,ansible,aws,gcp,nginx,prometheus,grafana"/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jenkins,docker,kubernetes,terraform,ansible,linux,bash,nginx" />
+</p>
+
+---
+
+## ☁️ Cloud Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp" />
+</p>
+
+---
+
+## 📊 Monitoring & Observability
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana" />
 </p>
 
 ### Tools
@@ -79,21 +95,7 @@
 
 ---
 
-# 🎯 Current Focus
 
-✅ MERN Stack Development
-
-✅ Docker & Kubernetes
-
-✅ CI/CD Pipelines
-
-✅ AWS Cloud
-
-✅ Data Structures & Algorithms
-
-✅ Open Source Contributions
-
----
 
 # 📊 GitHub Statistics
 
@@ -105,21 +107,7 @@
 
 ---
 
-# 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav6200907210&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Saurav6200907210&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
 
 # 📈 Activity Graph
 
@@ -137,37 +125,6 @@
 
 ---
 
-# 🚀 Featured Skills
-
-```yaml
-Frontend:
-  - HTML
-  - CSS
-  - JavaScript
-  - React
-  - Tailwind CSS
-
-Backend:
-  - Node.js
-  - Express.js
-
-Database:
-  - MongoDB
-  - MySQL
-
-DevOps:
-  - Docker
-  - Kubernetes
-  - Jenkins
-  - Terraform
-  - Ansible
-
-Cloud:
-  - AWS
-  - GCP
-```
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saurav6200907210&color=00F260&style=for-the-badge"/>
