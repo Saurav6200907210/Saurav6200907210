@@ -1,30 +1,99 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=250&section=header&text=Saurav%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<!-- ====================================================== -->
+<!--                 SAURAV OS | GITHUB PROFILE             -->
+<!-- ====================================================== -->
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F260&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Saurav+Kumar+%F0%9F%91%8B;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things+%F0%9F%9A%80"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,25&text=Saurav%20Kumar&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20MERN%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Cloud%20Enthusiast&descAlignY=60&descSize=20"/>
+
 </p>
 
 ---
 
-# 💫 About Me
+<h1 align="center">
 
- 🎓 Final Year Computer Science Engineering Student
+Hi 👋 I'm <span style="color:#00E5FF;">Saurav Kumar</span>
 
-💻 Full Stack Developer
+</h1>
 
-☁️ DevOps & Cloud Computing Enthusiast
+<h3 align="center">
 
-🚀 Passionate about building scalable applications
+Full-Stack MERN Developer • DevOps Engineer • DevSecOps • Cloud Engineer
 
-📚 Exploring AWS, Kubernetes, Terraform & Open Source
-
-🎯 Goal: Become a Software Engineer & DevOps Engineer
+</h3>
 
 ---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Production+Ready+Applications;Cloud+Native+Developer;Docker+%7C+Kubernetes+%7C+AWS;DevOps+%26+DevSecOps+Engineer;Open+Source+Contributor;Always+Learning+Something+New"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<a href="https://portfolio-saurav.vercel.app">
+
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Live-success?style=for-the-badge"/>
+
+</a>
+
+<a href="mailto:sonukumarteg245@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/Saurav6200907210">
+
+<img src="https://img.shields.io/github/followers/Saurav6200907210?style=for-the-badge&logo=github"/>
+
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Saurav6200907210&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# ⚡ About Me
+
+<img align="right" width="390" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+
+```yaml
+Name: Saurav Kumar
+
+Role:
+  - Full Stack MERN Developer
+  - DevOps Engineer
+  - DevSecOps Enthusiast
+
+Currently Building:
+  - GitAnalyze AI
+  - HireLens
+  - KubeVision
+  - WebMetricsX
+
+Learning:
+  - Kubernetes
+  - AWS
+  - Terraform
+  - Cloud Security
+  - System Design
+
+Interests:
+  - Cloud Native
+  - Artificial Intelligence
+  - Open Source
+  - Automation
+  - Linux
+
+Goal:
+  Become a World-Class Software & DevOps Engineer
+```
+
 
 # 🌐 Connect With Me
 
@@ -47,51 +116,43 @@
 
 # 🛠 Tech Stack
 
-### Frontend
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
-</p>
+## 💻 Frontend Development
 
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-## 🚀 DevOps & CI/CD
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jenkins,docker,kubernetes,terraform,ansible,linux,bash,nginx" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap"/>
 
 ---
 
-## ☁️ Cloud Platforms
+## ⚙️ Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+---
+
+## 🗄 Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis"/>
+
+---
+
+## 🚀 DevOps & DevSecOps
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,jenkins,linux,bash,git,github,nginx"/>
+
+---
+
+## ☁ Cloud Platforms
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare"/>
 
 ---
 
 ## 📊 Monitoring & Observability
 
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana" />
-</p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana"/>
 
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,bash"/>
-</p>
+</div>
 
 ---
 
