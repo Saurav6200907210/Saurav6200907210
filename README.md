@@ -173,7 +173,7 @@ Goal:
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurav6200907210&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sauravKS2&theme=tokyo-night"/>
 </p>
 
 ---
