@@ -98,7 +98,7 @@ Goal:
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Saurav6200907210">
+  <a href="https://github.com/sauravKS2">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
  
@@ -161,9 +161,9 @@ Goal:
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saurav6200907210&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sauravKS2&show_icons=true&theme=tokyonight&hide_border=true"/>
   
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav6200907210&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravKS2&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -188,7 +188,7 @@ Goal:
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saurav6200907210&color=00F260&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=sauravKS2&color=00F260&style=for-the-badge"/>
 </p>
 
 <p align="center">
